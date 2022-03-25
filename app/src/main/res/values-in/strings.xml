@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="search">Cari</string>
+    <string name="search_username">Cari nama pengguna</string>
+    <string name="github_logo">Logo GitHub</string>
+    <string name="showing_results">Menampilkan %d hasil</string>
+    <string name="settings">Pengaturan</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="open_on_github">BUKA DI GITHUB</string>
+    <string name="back_view">Kembali Melihat</string>
+    <string name="profile">Profil</string>
+    <string name="theme">Tema</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="common">Umum</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="what_are_you_looking_for">Apa yang sedang anda cari?</string>
+    <string name="search_illustration">Cari Ilustrasi</string>
+    <string name="no_data_illustration">Tidak Ada Ilustrasi Data</string>
+    <string name="user_not_found">Pengguna tidak ditemukan!</string>
+    <string name="has_no_followers">%s\ntidak memiliki pengikut</string>
+    <string name="doesnt_follow_anyone">%s\ntidak mengikuti siapapun</string>
+    <string name="hello_there">Halo yang disana! Saya menggunakan GitHub. Ikuti saya di https://github.com/%s</string>
+    <string name="open_github">https://github.com/%s</string>
+    <string name="share_via">Bagikan melalui</string>
+    <string name="github_connection">Koneksi GitHub</string>
+    <string name="favorite">Favorit</string>
+    <string name="you_don_t_have_a_favorite_user">Kamu tidak memiliki pengguna favorit</string>
+    <string name="success_added">Berhasil ditambahkan ke favorit!</string>
+    <string name="deleted_success">Favorit berhasil dihapus!</string>
+    <string name="undo">Batal</string>
+    <string name="close">Tutup</string>
+</resources>
